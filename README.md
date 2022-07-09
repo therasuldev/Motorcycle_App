@@ -1,7 +1,7 @@
 # motorcycle_app
 
-# screen 1
-<img src = https://user-images.githubusercontent.com/74558294/178099697-b3b64c18-dab6-4302-80d8-46becf5b8b5d.png height="600" width="350"> # screen 2 <img src = https://user-images.githubusercontent.com/74558294/178099702-5aa541bf-e19b-4c35-85bf-8a407dafdd8c.png height="600" width="350">
+# screen 1       # screen 2
+<img src = https://user-images.githubusercontent.com/74558294/178099697-b3b64c18-dab6-4302-80d8-46becf5b8b5d.png height="600" width="350">  <img src = https://user-images.githubusercontent.com/74558294/178099702-5aa541bf-e19b-4c35-85bf-8a407dafdd8c.png height="600" width="350">
 
 
 # screen 3
